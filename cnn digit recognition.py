@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat May 19 22:07:56 2018
-
 @author: jaylee
+It is the main function
 """
 import torch
 import numpy as np 
